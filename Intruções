@@ -1,0 +1,5 @@
+Para executar O projeto.
+execute npm install na pasta raiz do projeto.
+em seguida execute nodemon app.js
+abra o local host na porta 3000, localhost:3000
+Obrigado !!
